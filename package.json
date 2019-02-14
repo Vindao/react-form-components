@@ -3,9 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
-    "react-scripts": "2.1.3"
+    "@material-ui/core": "latest",
+    "animejs": "latest",
+    "node-sass": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-facebook-login": "latest",
+    "react-google-login": "latest",
+    "react-router-dom": "latest",
+    "react-scripts": "latest",
+    "react-spring": "latest",
+    "shortid": "^2.2.14"
   },
   "scripts": {
     "start": "react-scripts start",
